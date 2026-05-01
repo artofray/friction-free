@@ -1,7 +1,8 @@
 {
-  "name": "SonicNode",
+  "name": "Friction Free",
   "description": "A decentralized music distribution and streaming platform on the NEAR network, featuring AI-powered co-creation and community-governed monetization.",
   "requestFramePermissions": [
     "microphone"
-  ]
+  ],
+  "majorCapabilities": []
 }
